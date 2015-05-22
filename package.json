@@ -1,0 +1,22 @@
+{
+  "name": "zeon",
+  "version": "0.0.0",
+  "description": "zeon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zeonjs/zeon.git"
+  },
+  "keywords": [
+    "zeon"
+  ],
+  "author": "Zhen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zeonjs/zeon/issues"
+  },
+  "homepage": "https://github.com/zeonjs/zeon#readme"
+}
